@@ -15,7 +15,7 @@ public class SplashScreenActivity extends AppCompatActivity {
     public static final String CITY_NAME_EN = "city_name_en";
     public static final String UNITS = "units";
     public static final String PREFERENCES = "my_preferences";
-// hello
+// be
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
